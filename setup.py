@@ -29,7 +29,7 @@ setup(
             'SQLAlchemy==0.9.7',
             'Flask-RESTful==0.2.12',
             'requests==2.3.0',
-            'gunicorn==19.1.0',
+            'gunicorn==19.5.0',
             'tldextract==1.4',
             'supervisor==3.1.0',
             'celery==3.1.13',
